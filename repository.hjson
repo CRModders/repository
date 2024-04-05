@@ -4,7 +4,7 @@
     lastUpdated: 1711309941
     mods: [
         {
-            id: dev.crmodders.flux
+            id: dev.crmodders.fluxapi
             name: FluxAPI
             desc: Shared library for Fabric/Quilt
             authors: [ "Mr Zombii", "Nanobass" ]
