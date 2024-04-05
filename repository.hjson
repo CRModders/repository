@@ -7,10 +7,10 @@
             id: dev.crmodders.flux
             name: FluxAPI
             desc: Shared library for Fabric/Quilt
-            authors: [ "Mr Zombii" ]
-            version: 0.3.0
-            gameVersion: 0.1.11
-            url: https://github.com/CRModders/FluxAPI/releases/download/0.3/FluxAPI_0.3.0-CR_0.1.12-all.jar
+            authors: [ "Mr Zombii", "Nanobass" ]
+            version: 0.5.4
+            gameVersion: 0.1.20
+            url: https://github.com/CRModders/FluxAPI/releases/download/0.3/FluxAPI_0.5.4-all.jar
             deps: []
             ext: {}
         }
