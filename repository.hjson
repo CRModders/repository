@@ -4,13 +4,13 @@
     lastUpdated: 1711309941
     mods: [
         {
-            id: dev.crmodders.fluxapi
+            id: fluxapi
             name: FluxAPI
             desc: Shared library for Fabric/Quilt
             authors: [ "Mr Zombii", "Nanobass" ]
-            version: 0.5.4
-            gameVersion: 0.1.20
-            url: https://github.com/CRModders/FluxAPI/releases/download/0.3/FluxAPI_0.5.4-all.jar
+            version: 0.5.6
+            gameVersion: 0.1.21
+            url: https://github.com/CRModders/FluxAPI/releases/download/0.5.6/FluxAPI_0.5.6-all.jar
             deps: []
             ext: {}
         }
