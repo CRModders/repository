@@ -1,16 +1,36 @@
 {
-    specVersion: 1
+    $schema: https://raw.githubusercontent.com/CRModders/CRM-1/main/spec/version-2.json
+
+    specVersion: 2
+    lastUpdated: 1713025225
     rootId: dev.crmodders
-    lastUpdated: 1711309941
+
     mods: [
         {
-            id: fluxapi
+            id: dev.crmodders.flux
             name: FluxAPI
-            desc: Shared library for Fabric/Quilt
-            authors: [ "Mr Zombii", "Nanobass" ]
+            desc: The One True Quilt/Fabric Modding API for Cosmic Reach
+            authors: [
+                MrZombii
+                Nanobass
+            ]
+            version: 0.5.7
+            gameVersion: "[0.1.21]"
+            url: https://github.com/CRModders/FluxAPI/releases/download/0.5.7/Flux_API-0.5.7-all.jar
+            deps: []
+            ext: {}
+        },
+        {
+            id: dev.crmodders.flux
+            name: FluxAPI
+            desc: The One True Quilt/Fabric Modding API for Cosmic Reach
+            authors: [
+                MrZombii
+                Nanobass
+            ]
             version: 0.5.6
-            gameVersion: 0.1.21
-            url: https://github.com/CRModders/FluxAPI/releases/download/0.5.6/FluxAPI_0.5.6-all.jar
+            gameVersion: "[0.1.21]"
+            url: https://github.com/CRModders/FluxAPI/releases/download/0.5.6/Flux.API-0.5.6-all.jar
             deps: []
             ext: {}
         }
